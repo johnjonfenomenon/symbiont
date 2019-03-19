@@ -7,3 +7,5 @@ Before running npm test you will need to
                           - npm install chai
 
 There are a total of 6 small tests that are implemented in restaurant.test.js
+
+JER 3/19/19: I have also updated config/functions/bootstrap.js to do an intial insert into the DB prior to starting the server.
